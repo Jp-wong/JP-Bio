@@ -12,8 +12,8 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/Jp-wong/Test1/main/kindness%20lion.jpg)
-<img src="kindness%20lion.jpg" alt="My Profile Pic" width="500" height="600">
+![alt text]
+<img src="kindness%20lion.jpg" alt="My Profile Pic" width="200" height="200">
 
 <!-- Add your details -->
 

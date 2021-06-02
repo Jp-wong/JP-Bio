@@ -24,6 +24,7 @@ I am Jia Ping, a ex auditor with 3 years of progressive experience in data and a
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Interests](#interests) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -83,3 +84,6 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+##### Interests
+Tennis, badminton, investing, coding, German
